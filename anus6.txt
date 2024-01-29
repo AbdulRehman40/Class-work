@@ -1,0 +1,2 @@
+ages = {"anus": 15, "mahir": 30}
+print (ages["anus"])

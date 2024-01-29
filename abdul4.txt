@@ -1,0 +1,5 @@
+def fun():
+    print("Abdul Rehman")
+# Driver's code
+# Calling function
+fun()
