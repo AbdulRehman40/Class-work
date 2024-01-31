@@ -1,0 +1,39 @@
+EXAMPLE   1
+# aclass
+class Human:
+    # A simple class 
+    # attribute
+    attr1 = "Hafiz.M.Abdul Rehman"
+    attr2 = "Hafiz.M.Abdul Rehman"
+    
+    # A sample method
+    def fun(self):
+        print("I'm a",self.attr1)
+        print("I'm a",self.attr2)
+    Rodger = Human()
+    
+    print(rodger.attr1)
+    Rodger.fun()
+
+EXAMPLE   2
+
+class python:
+    def__init__(self, name, company)
+        self.name = name
+        self.company = company
+        def show(self):
+            print("Hello my name is" + self.name+"and I" +"work in"+self.company+".")
+            obj = Python("Hafiz.M.Abdul Rehman","Bano Qabil")
+            obj.show()
+
+EXAMPLE   3
+class Room:
+    length = 0.0
+    breadth = 0.0
+    # method to calculate area
+    def calculatearea(self):
+        print("Arae of Room =", self.length * self.breadth)
+study_room = Room()
+study_room.length = 42.5
+study_room.breadth = 30.8
+study_room.calculatearea()
