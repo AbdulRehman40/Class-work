@@ -1,0 +1,4 @@
+EXAMPLE  1
+
+f=open('new.txt')
+print(f.read())
