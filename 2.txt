@@ -1,0 +1,5 @@
+EXAMPLE  2
+
+f=open('newexample.txt','w')
+f.write("Bano Qabil Al-khidmat python CIT")
+f.close()
