@@ -1,0 +1,7 @@
+EXAMPLE  4
+
+f=open('new.txt', 'a')
+f.write("So practice it daily")
+f=open('new.txt')
+print(f.read())
+
