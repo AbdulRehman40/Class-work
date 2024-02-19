@@ -1,0 +1,10 @@
+EXAMPLE  5
+
+f=open('new.txt')
+print(f.read(5))
+print(f.tell())
+f.seek(0)
+f=open('new.txt')
+f.seek(0)
+for line in f:
+    print(line)
